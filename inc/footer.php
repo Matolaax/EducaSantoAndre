@@ -2,7 +2,7 @@
 <footer class="container-fluid footer_section">
   
 <p>
-  Prefeitura de Santo André 
+A educação pública em Santo André: Histórias, prátics e reflexões de uma rede municipal.
  <!-- <a href="https://themewagon.com/">Themewagon</a> -->
 </p>
 
