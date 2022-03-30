@@ -27,11 +27,11 @@ include "inc/header.php"
                 Sobre o projeto
               </h3>
               <p>
-                “Um cidadão fez voto de desapego e pobreza. Dispôs de todos os seus bens e propriedades, reservou para si apenas duas tangas, e saiu pelo mundo afora em busca de todos os sábios, medindo na verdade o desapego de cada um. Levava apenas uma tanga no corpo.
+              "Parabenizo a todos que relataram suas experiências e práticas, pois falar sobre elas já é um ato de coragem do educador, mas escrever e registrar é um ato revolucionário, na medida em que o autor submete sua prática ao debate e à crítica de muitos, tornando-a mais efetiva."
+(Sonia Kruppa, no prefácio do livro "A educação pública de Santo André: histórias, práticas e reflexões de uma rede municipal")
               </p>
               <p>
-                Estava convencido de não encontrar quem ganhasse de si em despojamento, quando soube de um velho guru. Tomando as direções, parte ao encontro do velho sábio.
-Quando lá chegou, tristeza e decepção! Encontrou terras bem cuidadas, um palácio faustoso, muita riqueza, muita pompa. Indignado, procura pelo guru. Um velho servo lhe diz que ele está em uma ala dos magníficos jardins com seus discípulos, estudando desapego. Como era costume da casa Ter gentileza para com os hóspedes, o servo convida o andarilho para o banho, repouso e refeição, antes de se dirigir à presença do sábio.
+              Este site é a resposta das exigências de um mundo contemporâneo que tem nos exigido cada vez mais, apresentar os conteúdos todos, de forma digital. Como mencionado na introdução do livro, essa publicação parte de uma ideia que surgiu na votação da Câmara dos Vereadores em 2019, quando os parlamentares, ao tomarem o microfone para falar da Lei da Mordaça, mostraram grande desconhecimento das práticas das escolas públicas do município. Não sabem da luta de muitos professores em promover uma educação pública, laica e de qualidade. Como resposta a esse desconhecimento que não é só dos parlamentares, decidimos publicar o livro "A educação pública de Santo André: histórias, práticas e reflexões de uma rede municipal". Deste modo, o conteúdo do livro traz diversos artigos de práticas pedagógicas, relatos de pesquisas relacionados ao ensino na rede de  Santo André e relatos de trajetórias profissionais dos professores. Observando o modo como nós sujeitos sociais, temos nos relacionado com a tecnologia, fica evidente a grande procura por conteúdos dinâmicos como aqueles que observamos nas redes sociais: fotos, vídeos, links entre outros. Pensando nisso, decidimos ter, além do livro físico, um site, em que cada professor autor pudesse contar suas práticas e pesquisas de outras formas, se apresentando, mostrando fotos e vídeos de como foi vivido o processo.  Uma forma de aproximar mais e melhor o leitor do professor, de sua escrita e de sua prática.
               </p>
               </div>
             </div>
@@ -40,6 +40,21 @@ Quando lá chegou, tristeza e decepção! Encontrou terras bem cuidadas, um pal�
       </div>
     </div>
   </section>
+    <div class ="container">
+      <div class="row">
+        <div class="col-md-6">
+          <div class="detail-box">
+            <div class="heading_container">
+              <div class="textojustify">
+              <h3>
+              Linha do Tempo da Obra
+              </h3>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
   <section class="about_section layout_padding">
   <div class="side_img">
     <img src="images/side-img.png" alt="" />
@@ -56,7 +71,7 @@ Quando lá chegou, tristeza e decepção! Encontrou terras bem cuidadas, um pal�
               </time>
             </header>
             <div class="card__content">
-              <p>Votação da Lei da Mordaça na Câmara dos Vereadores em Santo André, com vitória favorável aos professores e à liberdade de cátedra. Ao observar que os parlamentares não conhecem o trabalho realizado pelo Rede Municipal, os organizadores começaram a idealizar a obra</p>
+              <p>Votação da Lei da Mordaça na Câmara dos Vereadores em Santo André, com vitória favorável aos professores e à liberdade de cátedra. Ao observar que os parlamentares não conhecem o trabalho realizado pelo Rede Municipal, os organizadores começaram a idealizar a obra.</p>
             </div>
           </div>
         </div>
@@ -85,7 +100,7 @@ Quando lá chegou, tristeza e decepção! Encontrou terras bem cuidadas, um pal�
               </time>          
             </header>
             <div class="card__content">
-              <p>Primeira Comissão de Pareceristas leem e dão devolutiva sobre os resumos enviados pelos autores a partir da Carta de Aceite.</p>
+              <p>Primeira Comissão de Pareceristas leem os resumos dos autores e enviam devolutivas sobre o quanto estão próximos ou não das exigências do edital.</p>
             </div>
           </div>
         </div>
@@ -99,7 +114,7 @@ Quando lá chegou, tristeza e decepção! Encontrou terras bem cuidadas, um pal�
               </time>          
             </header>
             <div class="card__content">
-              <p>Convite e Aceite da Professora e Ex- Secretária da Educação Selma Rocha a compor a obra com seu artigo sobre a política pública educacional no período de 1997 a 2000.</p>
+              <p>Convite e aceite da Profa. Dra.  Selma Rocha a compor a obra com o artigo sobre a política educacional no período em que foi Secretária da Educação (1997-2000).</p>
             </div>
           </div>
         </div>

@@ -2,7 +2,7 @@
 <footer class="container-fluid footer_section">
   
 <p>
-A educação pública em Santo André: Histórias, prátics e reflexões de uma rede municipal.
+A Educação Pública em Santo André: Histórias, práticas e reflexões de uma Rede Municipal
  <!-- <a href="https://themewagon.com/">Themewagon</a> -->
 </p>
 
