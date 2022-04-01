@@ -50,7 +50,7 @@ include "inc/header.php"
             </h5>
           </div>
           <div class="box">
-            <img src="images/c-4.jpg" alt="" />
+            <img src="autores/Fotosprofessores/Andressafoto1.jpg" alt="" />
             <a href="autores/AndressaMarisol.php" class="">
               <img src="images/link.png" alt="" />
             </a>
@@ -170,7 +170,7 @@ include "inc/header.php"
             </h5>
           </div>
           <div class="box">
-            <img src="images/c-2.jpg" alt="" />
+            <img src="autores/Fotosprofessores/Mirvanefoto1.png" alt="" />
             <a href="" class="">
               <img src="images/link.png" alt="" />
             </a>
@@ -230,7 +230,7 @@ include "inc/header.php"
             </h5>
           </div>
           <div class="box">
-            <img src="images/c-1.jpg" alt="" />
+            <img src="autores/Fotosprofessores/Wendelfoto1.jpeg" alt="" />
             <a href="" class="">
               <img src="images/link.png" alt="" />
             </a>

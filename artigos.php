@@ -11,13 +11,12 @@ include "inc/header.php"
           Artigos
         </h3>
         <p>
-          Temas onde estarão os artigos
+          Os artigos completos estão na obra A Educação Pública em Santo André: histórias, práticas e reflexões de uma Rede Municipal
         </p>
       </div>
       </section>
       <div class="container">
       <div class="row">
-        <div class="col-md-6">
           <div class="detail-box">
             <div class="heading_container">
               <h3>
@@ -28,19 +27,19 @@ include "inc/header.php"
         </div>
         <div>
           <a href="../artigos/artigo1.php">
-          <p>
+          <li>
           O PLANEJAMENTO E A GESTÃO DA POLÍTICA DE EDUCAÇÃO INCLUSIVA EM SANTO ANDRÉ: UMA QUESTÃO DEMOCRÁTICA (1997-2000). 
-          </p>
+          </li>
           </a>
           <a href="../artigos/artigo2.php">
-          <p>
+          <li>
           TRAJETÓRIA PROFISSIONAL NA REDE PÚBLICA MUNICIPAL DE ENSINO DE SANTO ANDRÉ: LIMITES E POSSIBILIDADES NA CONSTRUÇÃO DA IDENTIDADE DOCENTE  
-          </p>
+          </li>
           </a>
           <a href="../artigos/artigo3.php">
-          <p>
+          <li>
           ESPAÇOS COLETIVOS ORGANIZADOS PELOS AGENTES DE DESENVOLVIMENTO INFANTIL: UM OLHAR SOBRE A EFETIVAÇÃO DO PAPEL EDUCADOR DOS MEMBROS DA COMUNIDADE ESCOLAR, PARA ALÉM DO CORPO DOCENTE. 
-          </p>
+          </li>
           </a>
         </div>
       </div>    
@@ -48,7 +47,6 @@ include "inc/header.php"
     </div>
     <div class="container">
       <div class="row">
-        <div class="col-md-6">
           <div class="detail-box">
             <div class="heading_container">
               <h3>
@@ -59,29 +57,29 @@ include "inc/header.php"
         </div>
         <div>
         <a href="../artigos/artigo4.php">
-          <p>
+          <li>
           RELAÇÕES RACIAIS NA EDUCAÇÃO INFANTIL DO MUNICÍPIO DE SANTO ANDRÉ: A BUSCA POR UMA PRÁTICA CURRICULAR DECOLONIAL 
-          </p>
+          </li>
         </a>
         <a href="../artigos/artigo5.php">
-          <p>
+          <li>
           É DE MENINO OU DE MENINA? REFLEXÕES A PARTIR DOS JOGOS DOS POVOS INDÍGENAS NA EDUCAÇÃO FÍSICA ESCOLAR
-          </p>
+          </li>
         </a>  
         <a href="../artigos/artigo6.php">
-          <p>
+          <li>
           ABORDAGEM INTERCULTURAL E OS MULTILETRAMENTOS: ALFABETIZAÇÃO DE CRIANÇAS IMIGRANTES NOS ANOS INICIAIS 
-          </p>
+          </li>
         </a>
         <a href="../artigos/artigo7.php">
-          <P>
+          <li>
           EDUCAÇÃO DAS RELAÇÕES ÉTNICO-RACIAIS NOS CADERNOS DIDÁTICOS "FORMADORES DO SABER" (2011 - 2012): ANÁLISE DA EXPERIÊNCIA DA REDE MUNICIPAL DE SANTO ANDRÉ
-          </P>
+          </li>
         </a>
         <a href="../artigos/artigo8.php">
-          <p> 
+          <li> 
           VALORIZAÇÃO DA CULTURA MARGINAL E A LEI 10.639/03 NA EMEIEF LUIZ GONZAGA 
-          </p>
+          </li>
         </a>
         </div>
       </div>    
@@ -89,7 +87,6 @@ include "inc/header.php"
     </div>
     <div class="container">
       <div class="row">
-        <div class="col-md-6">
           <div class="detail-box">
             <div class="heading_container">
               <h3>
@@ -100,24 +97,24 @@ include "inc/header.php"
         </div>
         <div>
         <a href="../artigos/artigo9.php">
-          <p>
+          <li>
           JOGO DA VIDA: DIMENSÃO INTERCULTURAL NO ENSINO DE LÍNGUA INGLESA EM UM CURRÍCULO INTEGRADO 
-          </p>
+          </li>
         </a>  
        <a href="../artigos/artigo10.php">
-          <p>
+          <li>
           O FAZER-SE DOCENTE NA PRÁTICA: ENSINO DE HISTÓRIA NA EDUCAÇÃO DE JOVENS E ADULTOS NO MUNICÍPIO DE SANTO ANDRÉ 
-          </p>
+          </li>
         </a>
         <a href="../artigos/artigo11.php">
-          <p>
+          <li>
           ESTUDANDO A EJA: DIRETOR PESQUISADOR E A BUSCA DE NOVAS POSSIBILIDADES DE AÇÃO 
-          </p>
+          </li>
         </a>
         <a href="../artigos/artigo12.php">
-          <P>
+          <li>
           MULTILETRAMENTOS NA EDUCAÇÃO DE JOVENS E ADULTOS: UMA PROPOSTA NA PERSPECTIVA DO CURRÍCULO INTEGRADO 
-          </P>
+          </li>
        </a>
         </div>
       </div>    
@@ -125,7 +122,6 @@ include "inc/header.php"
     </div>
     <div class="container">
       <div class="row">
-        <div class="col-md-6">
           <div class="detail-box">
             <div class="heading_container">
               <h3>
@@ -136,19 +132,19 @@ include "inc/header.php"
         </div>
         <div>
         <a href="../artigos/artigo13.php">
-          <p>
+          <li>
           O FÓRUM MUNICIPAL DE EDUCAÇÃO COMO INSTRUMENTO DE LUTA E RESISTÊNCIA 
-          </p>
+          </li>
         </a>
         <a href="../artigos/artigo14.php">
-          <p>
+          <li>
           O PROJETO POLÍTICO PEDAGÓGICO E A GESTÃO DEMOCRÁTICA NO MUNICÍPIO DE SANTO ANDRÉ – SP: UM ESTUDO DE CASO 
-          </p>
+          </li>
         </a>
           <a href="../artigos/artigo15.php">
-          <p>
+          <li>
           A DESIGUALDADE IMPOSTA PELAS POLÍTICAS DE FINANCIAMENTO DA EDUCAÇÃO BÁSICA: IMPACTOS NA REDE MUNICIPAL DE SANTO ANDRÉ
-          </p>
+          </li>
         </a>
         </div>
       </div>    
@@ -156,7 +152,6 @@ include "inc/header.php"
     </div>
     <div class="container">
       <div class="row">
-        <div class="col-md-6">
           <div class="detail-box">
             <div class="heading_container">
               <h3>
@@ -167,19 +162,19 @@ include "inc/header.php"
         </div>
         <div>
         <a href="../artigos/artigo16.php">
-          <p>
+          <li>
           CULTURA MARGINAL? 
-          </p>
+          </li>
         </a>
         <a href="../artigos/artigo17.php">
-          <p>
+          <li>
           UMA NOVA VISÃO – POLO DE DEFICIÊNCIA VISUAL 
-          </p>
+          </li>
         </a>
         <a href="../artigos/artigo18.php">
-          <p>
+          <li>
           A SALA DE RECURSOS COMO FACILITADORA DO PROTAGONISMO E INCLUSÃO DE JOVENS E ADULTOS COM DEFICIÊNCIA. 
-          </p>
+          </li>
         </a>
         </div>
       </div>    

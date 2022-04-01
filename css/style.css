@@ -325,6 +325,7 @@ a:focus {
 
 .about_section .img_container .img-box img {
   width: 100%;
+  margin: 30px;
 }
 
 .about_section .img_container .img-box.b2 {

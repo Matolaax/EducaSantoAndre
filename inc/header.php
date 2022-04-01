@@ -50,12 +50,13 @@ $indexActive = ($_SERVER["REQUEST_URI"] == "/index.php") ? "active" : "";
 $contatoActive = ($_SERVER["REQUEST_URI"] == "/contato.php") ? "active" : "";
 $autoresActive = (substr ($_SERVER["REQUEST_URI"], 0, 8) == "/autores") ? "active" : "";
 $artigosActive = (substr ($_SERVER["REQUEST_URI"], 0, 8) == "/artigos") ? "active" : "";
+$olivroActive = ($_SERVER["REQUEST_URI"] == "/olivro.php") ? "active" : "";
 
 $indexSronly = ($_SERVER["REQUEST_URI"] == "/index.php") ? "<span class=\"sr-only\">(current)</span>" : "";
 $autoreSronly = ($_SERVER["REQUEST_URI"] == "/autores.php") ? "<span class=\"sr-only\">(current)</span>": "";
 $artigoSronly = ($_SERVER["REQUEST_URI"] == "/artigos.php") ? "<span class=\"sr-only\">(current)</span>": "";
 $contatoSronly = ($_SERVER["REQUEST_URI"] == "/contato.php") ? "<span class=\"sr-only\">(current)</span>": "";
-
+$olivroSronly = ($_SERVER["REQUEST_URI"] == "/olivro.php") ? "<span class=\"sr-only\">(current)</span>": "";
 ?>
 
           <div class="collapse navbar-collapse ml-auto" id="navbarSupportedContent">
@@ -63,6 +64,9 @@ $contatoSronly = ($_SERVER["REQUEST_URI"] == "/contato.php") ? "<span class=\"sr
           <ul class="navbar-nav  ml-auto">
               <li class="nav-item <?=$indexActive?>">
                 <a class="nav-link" href="/index.php"> Sobre <?=$indexSronly?> </a>
+              </li>
+              <li class="nav-item <?=$olivroActive?>">
+                <a class="nav-link" href="/olivro.php"> Como tudo começa <?=$olivroSronly?> </a>
               </li>
               <li class="nav-item <?=$autoresActive?>">
                 <a class="nav-link" href="/autores.php"> Autores  <?=$autoreSronly?></a>
