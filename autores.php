@@ -90,6 +90,16 @@ include "inc/header.php"
             </h5>
           </div>
           <div class="box">
+            <img src="../autores/Fotosprofessores/Claudiaautores.jpeg" alt="" />
+            <a href="autores/ClaudiaPessoni.php" class="">
+              <img src="images/link.png" alt="" />
+            </a>
+            <h5>
+              Claudia <br />
+              Pessoni
+            </h5>
+          </div>
+          <div class="box">
             <img src="../autores/Fotosprofessores/crislaineautores.jpeg" alt="" />
             <a href="autores/CrislaineBarros.php" class="">
               <img src="images/link.png" alt="" />
@@ -207,6 +217,16 @@ include "inc/header.php"
             <h5>
               Selma <br />
               Rocha
+            </h5>
+          </div>
+          <div class="box">
+            <img src="../autores/Fotosprofessores/Siclayautores.jpeg" alt="" />
+            <a href="autores/ClaudiaPessoni.php" class="">
+              <img src="images/link.png" alt="" />
+            </a>
+            <h5>
+              Siclay <br />
+              Pereira
             </h5>
           </div>
           <div class="box">
