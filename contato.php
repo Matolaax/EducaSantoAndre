@@ -21,7 +21,7 @@ include "inc/header.php"
             </div>
           </div>
         </div>
-        <div class="col-md-6">
+        <!--<div class="col-md-6">
           <div class="contact-form">
             <h5>
               Get In Touch
@@ -46,7 +46,7 @@ include "inc/header.php"
               </div>
             </form>
           </div>
-        </div>
+        </div>-->
       </div>
     </div>
   </section>

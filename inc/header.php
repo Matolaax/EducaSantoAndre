@@ -51,12 +51,14 @@ $contatoActive = ($_SERVER["REQUEST_URI"] == "/contato.php") ? "active" : "";
 $autoresActive = (substr ($_SERVER["REQUEST_URI"], 0, 8) == "/autores") ? "active" : "";
 $artigosActive = (substr ($_SERVER["REQUEST_URI"], 0, 8) == "/artigos") ? "active" : "";
 $olivroActive = ($_SERVER["REQUEST_URI"] == "/olivro.php") ? "active" : "";
+$midiasActive = ($_SERVER["REQUEST_URI"] == "/namidia.php") ? "active" : "";
 
 $indexSronly = ($_SERVER["REQUEST_URI"] == "/index.php") ? "<span class=\"sr-only\">(current)</span>" : "";
 $autoreSronly = ($_SERVER["REQUEST_URI"] == "/autores.php") ? "<span class=\"sr-only\">(current)</span>": "";
 $artigoSronly = ($_SERVER["REQUEST_URI"] == "/artigos.php") ? "<span class=\"sr-only\">(current)</span>": "";
 $contatoSronly = ($_SERVER["REQUEST_URI"] == "/contato.php") ? "<span class=\"sr-only\">(current)</span>": "";
 $olivroSronly = ($_SERVER["REQUEST_URI"] == "/olivro.php") ? "<span class=\"sr-only\">(current)</span>": "";
+$midiasSronly = ($_SERVER["REQUEST_URI"] == "/namidia.php") ? "<span class=\"sr-only\">(current)</span>": "";
 ?>
 
           <div class="collapse navbar-collapse ml-auto" id="navbarSupportedContent">
@@ -76,6 +78,9 @@ $olivroSronly = ($_SERVER["REQUEST_URI"] == "/olivro.php") ? "<span class=\"sr-o
               </li>
               <li class="nav-item <?=$contatoActive?>">
                 <a class="nav-link" href="/contato.php">Entre em contato <?=$contatoSronly?></a>
+              </li>
+              <li class="nav-item <?=$midiasActive?>">
+                <a class="nav-link" href="/namidia.php"> Na Mídia <?=$midiasSronly?> </a>
               </li>
             </ul>
           </div>

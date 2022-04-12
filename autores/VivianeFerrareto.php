@@ -13,7 +13,7 @@ include "../inc/header.php"
         <div class="col-md-6">
           <div class="img_container">
             <div class="img-box b1">
-              <img src="../images/paulo-freire.jpg" alt="" />
+              <img src="../autores/Fotosprofessores/Valeriafoto1.jpg" alt="" />
             </div>
           </div>
         </div>
@@ -21,10 +21,10 @@ include "../inc/header.php"
           <div class="detail-box">
             <div class="heading_container">
               <h3>
-                Paulo Freire
+              Viviane Ferrareto da Silva Pires
               </h3>
               <p>
-                Paulo Reglus Neves Freire (Recife, 19 de setembro de 1921 — São Paulo, 2 de maio de 1997) foi um educador e filósofo brasileiro. É considerado um dos pensadores mais notáveis na história da pedagogia mundial, tendo influenciado o movimento chamado pedagogia crítica. É também o Patrono da Educação Brasileira.[1]
+              Professora da rede pública municipal de Santo André há 22 anos, atuação em Educação Infantil da rede privada durante 16 anos e em cursos de graduação e pós-graduação. Magistério com especialização em Educação Infantil. Graduação em Pedagogia com habilitação em Administração e Magistério. Lato Sensu em Educação Especial, Deficiência Intelectual e Psicopedagogia. Mestrado e Doutorado em Educação na Pontifícia Universidade Católica de São Paulo.  Atuação na Gerência de Educação Inclusiva de Santo André, por 11 anos, tendo a possibilidade de trabalhar na Sala de Recursos Multifuncionais para alunos com deficiência visual como Assistente Pedagógica durante a implantação do polo. Pais trabalhadores que favoreceram histórias orais, contato com livros e leitura presente desde a mais tenra idade. As desigualdades sociais e econômicas, bem como as oportunidades diferenciadas delas advindas sempre foram apontadas como inaceitáveis devendo ser combatidas. A cultura brasileira, literatura e prioritariamente a música fazem parte da minha trajetória.
               </p>
             </div>
           </div>
@@ -36,16 +36,10 @@ include "../inc/header.php"
         <div class="col-md-6">
           <div class="detail-box">
             <div class="heading_container">
+              <h3> Como adentrou ao projeto? </h3>
               <p>
-                Sua prática didática fundamentava-se na crença de que o educando assimilaria o objeto de estudo fazendo uso de uma prática dialética com a realidade, em contraposição à por ele denominada educação bancária, tecnicista e alienante: o educando criaria sua própria educação, fazendo ele próprio o caminho, e não seguindo um já previamente construído; libertando-se de chavões alienantes, o educando seguiria e criaria o rumo do seu aprendizado. Destacou-se por seu trabalho na área da educação popular, voltada tanto para a escolarização como para a formação da consciência política.
+              A elaboração do projeto foi impulsionada após a reflexão sobre os inúmeros desafios da inclusão dos alunos com deficiência, especialmente os com deficiência visual. Dentre eles, a constatação que mesmo com professor especialista e do engajamento do professor da sala regular, alunos com deficiência visual pertencentes a esta rede de ensino não conseguiam autonomia para prosseguirem nos estudos em outra rede de ensino. A partir dessa verificação foram realizadas pesquisas e entrevistas com deficientes visuais com a finalidade de conhecer trajetórias de aprendizagem de sucesso e as dificuldades encontradas nesse percurso.  
               </p>
-            </div>
-          </div>
-        </div>
-        <div class="col-md-6">
-          <div class="img_container">
-            <div class="img-box b1">
-              <img src="../images/paulo-freire2.jpg" alt="" />
             </div>
           </div>
         </div>
@@ -53,25 +47,16 @@ include "../inc/header.php"
     </div><div class="container">
       <div class="row">
         <div class="col-md-6">
-          <div class="img_container">
-            <div class="img-box b1">
-              <img src="../images/paulo-freire3.jpg" alt="" />
-            </div>
-          </div>
-        </div>
-        <div class="col-md-6">
           <div class="detail-box">
             <div class="heading_container">
+              <h3> Porque meu artigo contribui para a educação pública? </h3>
               <p>
-                Autor de Pedagogia do Oprimido, livro que propõe um método de alfabetização dialético, se diferenciou do "vanguardismo" dos intelectuais de esquerda tradicionais e sempre defendeu o diálogo com as pessoas simples, não só como método, mas como um modo de ser realmente democrático. Trata-se do terceiro livro mais citado em trabalhos acadêmicos de ciências sociais em todo o mundo              
+              A Educação Especial e Inclusiva têm sido tema de debate recorrente no sistema educacional brasileiro, bem como de legislações, entretanto, esse fato, não modificou os insucessos da inclusão dos alunos com deficiência nas escolas brasileiras. As causas do baixo rendimento, sejam de alunos com deficiência ou não, ainda são justificadas como questões intrínsecas aos sujeitos e divulgadas como incapacidade destes devido suas condições sócio econômicas e culturais. Junte-se a este fato a má-formação dos cursos de Pedagogia que não formam professores para atuarem em sala de aula. Há carência de conhecimentos teóricos do professor e gestores sobre as deficiências e práticas que contribuam para a aprendizagem desses alunos. Destaca-se também no processo inclusivo a insuficiência de parceria entre o professor da sala regular e do especialista, compartilhando saberes essenciais para que o aluno aprenda. Esse projeto possibilitou outro olhar para a aprendizagem dos alunos com deficiência visual considerando a realidade local como um avanço ao trabalho anteriormente realizado.               
               </p>
             </div>
           </div>
         </div>
       </div>
-    </div>
-    <div class="video">
-      <iframe width="900" height="600" src="https://www.youtube.com/embed/o_3vRSEn1IM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
     <div class="container">
     <div clss="row">
@@ -85,13 +70,7 @@ include "../inc/header.php"
         </div>
       </div>
       <p>
-        Outra função importante pode ser atribuída ao artigo: a função de substantivação. Ocorrerá quando o artigo estiver associado a qualquer outro tipo de palavra, sendo assim, ele exercerá o papel de substantivo.
-      </p>
-      <p>
-        Entre o querer e o poder existe um longo caminho.
-      </p>
-      <p>
-        Na frase anterior, as palavras querer e poder pertencem à classe gramatical dos verbos, mas neste caso funcionam como substantivos, pois estão precedidas por artigos.
+      O direito de todos à educação está posto legalmente, entretanto, a permanência e qualidade do ensino ainda são desafios da educação no Brasil, especialmente para os alunos com deficiência e baixo rendimento acadêmico. A formação do professor da sala regular e composição com especialistas nas deficiências nas escolas ainda são objetos de pesquisas, bem como a organização, material, espaço físico, carga horária entre outros que possam compreender a aprendizagem do aluno. Dessa forma, são relevantes os projetos embasados em estudos e pesquisas que intencionam a qualificação da escola pública considerando iguais possibilidade de aprendizagem para todos os alunos, independentemente de suas condições.
       </p>
       <div class="col-md-6">
         <div class="detail-box">
@@ -102,8 +81,20 @@ include "../inc/header.php"
           </div>
         </div>
       </div>
-    <p class="nav-link" href="https://brasilescola.uol.com.br/o-que-e/portugues/o-que-e-artigo.htm">
-      https://brasilescola.uol.com.br/o-que-e/portugues/o-que-e-artigo.htm
+    <p>
+    https://trocandosaberes.com.br/wp-content/uploads/2019/02/Cartilha-O-aluno-com-defici%C3%AAncia-visual.pdf
+    </p>
+    <p>
+    Deficiencia Visual.indd (mec.gov.br)
+    </p>
+    <p>
+    EDUCAO INCLUSIVA: POLTICA NACIONAL DE EDUCAO ESPECIAL (mec.gov.br)
+    </p>
+    <p>
+    MINISTÉRIO DA EDUCAÇÃO (mec.gov.br)
+    </p>
+    <p>
+    http://revistas.unisinos.br/index.php/educacao/article/view/edu.2018.222.04/60746207
     </p>
   </div>
 </div>

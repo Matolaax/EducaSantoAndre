@@ -398,6 +398,7 @@ a:focus {
 
 .course_section .course_container .course_content .box img {
   width: 100%;
+  height: 100%;
 }
 
 .course_section .course_container .course_content .box a {
@@ -419,6 +420,7 @@ a:focus {
 
 .course_section .course_container .course_content .box a img {
   width: 20px;
+  height: 20px;
 }
 
 .course_section .course_container .course_content .box a:hover {

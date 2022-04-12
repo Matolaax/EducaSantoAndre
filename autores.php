@@ -20,7 +20,7 @@ include "inc/header.php"
       <div class="course_container">
         <div class="course_content">
           <div class="box">
-            <img src="images/c-1.jpg" alt="" />
+            <img src="../autores/Fotosprofessores/Adrianaautores.jpeg" alt="" />
             <a href="autores/AdrianaZanini.php">
               <img src="images/link.png" alt="" />
             </a>
@@ -61,7 +61,7 @@ include "inc/header.php"
           </div>
           <div class="box">
             <img src="autores/Fotosprofessores/Fotobeatrizautores.jpeg" alt="" />
-            <a href="" class="">
+            <a href="autores/BeatrizManocchi.php" class="">
               <img src="images/link.png" alt="" />
             </a>
             <h5>
@@ -71,7 +71,7 @@ include "inc/header.php"
           </div>
           <div class="box">
             <img src="autores/Fotosprofessores/Caiofoto1.png" alt="" />
-            <a href="" class="">
+            <a href="autores/CaioGerbelli.php" class="">
               <img src="images/link.png" alt="" />
             </a>
             <h5>
@@ -80,8 +80,8 @@ include "inc/header.php"
             </h5>
           </div>
           <div class="box">
-            <img src="images/c-3.jpg" alt="" />
-            <a href="" class="">
+            <img src="../autores/Fotosprofessores/Catiaautores.jpeg" alt="" />
+            <a href="autores/CatiaSilva.php" class="">
               <img src="images/link.png" alt="" />
             </a>
             <h5>
@@ -90,8 +90,8 @@ include "inc/header.php"
             </h5>
           </div>
           <div class="box">
-            <img src="images/c-5.jpg" alt="" />
-            <a href="" class="">
+            <img src="../autores/Fotosprofessores/crislaineautores.jpeg" alt="" />
+            <a href="autores/CrislaineBarros.php" class="">
               <img src="images/link.png" alt="" />
             </a>
             <h5>
@@ -100,8 +100,8 @@ include "inc/header.php"
             </h5>
           </div>
           <div class="box">
-            <img src="images/c-2.jpg" alt="" />
-            <a href="" class="">
+            <img src="../autores/Fotosprofessores/elianeautores.jpeg" alt="" />
+            <a href="autores/ElianeChagas.php" class="">
               <img src="images/link.png" alt="" />
             </a>
             <h5>
@@ -110,8 +110,8 @@ include "inc/header.php"
             </h5>
           </div>
           <div class="box">
-            <img src="images/c-3.jpg" alt="" />
-            <a href="" class="">
+            <img src="../autores/Fotosprofessores/elizetefoto1.jpg" alt="" />
+            <a href="autores/Elizetebuzeto.php" class="">
               <img src="images/link.png" alt="" />
             </a>
             <h5>
@@ -121,7 +121,7 @@ include "inc/header.php"
           </div>
           <div class="box">
             <img src="autores/Fotosprofessores/Fotogiseliautores.jpeg" alt="" />
-            <a href="" class="">
+            <a href="autores/Giselipimentel.php" class="">
               <img src="images/link.png" alt="" />
             </a>
             <h5>
@@ -130,8 +130,8 @@ include "inc/header.php"
             </h5>
           </div>
           <div class="box">
-            <img src="autores/Isabel teste.jpg" alt="" />
-            <a href="" class="">
+            <img src="autores/Isabelteste.jpg" alt="" />
+            <a href="autores/Isabelrodrigues.php" class="">
               <img src="images/link.png" alt="" />
             </a>
             <h5>
@@ -140,8 +140,8 @@ include "inc/header.php"
             </h5>
           </div>
           <div class="box">
-            <img src="images/c-2.jpg" alt="" />
-            <a href="" class="">
+            <img src="../autores/Fotosprofessores/kelenautores.jpeg" alt="" />
+            <a href="autores/KelenCristina.php" class="">
               <img src="images/link.png" alt="" />
             </a>
             <h5>
@@ -151,7 +151,7 @@ include "inc/header.php"
           </div>
           <div class="box">
             <img src="autores/Fotosprofessores/Fotolilianeautores.jpeg" alt="" />
-            <a href="" class="">
+            <a href="autores/LilianeGoncalves.php" class="">
               <img src="images/link.png" alt="" />
             </a>
             <h5>
@@ -161,7 +161,7 @@ include "inc/header.php"
           </div>
           <div class="box">
             <img src="autores/Fotosprofessores/Fotomarinaautores.jpeg" alt="" />
-            <a href="" class="">
+            <a href="autores/MarinaSavordelli.php" class="">
               <img src="images/link.png" alt="" />
             </a>
             <h5>
@@ -171,7 +171,7 @@ include "inc/header.php"
           </div>
           <div class="box">
             <img src="autores/Fotosprofessores/Mirvanefoto1.png" alt="" />
-            <a href="" class="">
+            <a href="autores/MirvaneSouza.php" class="">
               <img src="images/link.png" alt="" />
             </a>
             <h5>
@@ -180,8 +180,8 @@ include "inc/header.php"
             </h5>
           </div>
           <div class="box">
-            <img src="images/c-3.jpg" alt="" />
-            <a href="" class="">
+            <img src="../autores/Fotosprofessores/renataautores.jpeg" alt="" />
+            <a href="autores/RenataAceituno.php" class="">
               <img src="images/link.png" alt="" />
             </a>
             <h5>
@@ -190,8 +190,8 @@ include "inc/header.php"
             </h5>
           </div>
           <div class="box">
-            <img src="images/c-1.jpg" alt="" />
-            <a href="" class="">
+            <img src="autores/Fotosprofessores/Reginafotoautores.jpg" alt="" />
+            <a href="autores/ReginaMaria.php" class="">
               <img src="images/link.png" alt="" />
             </a>
             <h5>
@@ -200,8 +200,8 @@ include "inc/header.php"
             </h5>
           </div>
           <div class="box">
-            <img src="images/c-3.jpg" alt="" />
-            <a href="" class="">
+            <img src="../autores/Fotosprofessores/selmaautores.jpeg" alt="" />
+            <a href="autores/SelmaRocha.php" class="">
               <img src="images/link.png" alt="" />
             </a>
             <h5>
@@ -210,8 +210,8 @@ include "inc/header.php"
             </h5>
           </div>
           <div class="box">
-            <img src="images/c-2.jpg" alt="" />
-            <a href="" class="">
+            <img src="../autores/Fotosprofessores/valeriafoto1.jpg" alt="" />
+            <a href="autores/Valeriacouto.php" class="">
               <img src="images/link.png" alt="" />
             </a>
             <h5>
@@ -220,8 +220,8 @@ include "inc/header.php"
             </h5>
           </div>
           <div class="box">
-            <img src="images/c-3.jpg" alt="" />
-            <a href="" class="">
+            <img src="../autores/Fotosprofessores/vivianeautores.jpeg" alt="" />
+            <a href="autores/Vivianeferrareto.php" class="">
               <img src="images/link.png" alt="" />
             </a>
             <h5>
@@ -231,7 +231,7 @@ include "inc/header.php"
           </div>
           <div class="box">
             <img src="autores/Fotosprofessores/Wendelfoto1.jpeg" alt="" />
-            <a href="" class="">
+            <a href="autores/WendelCamargo.php" class="">
               <img src="images/link.png" alt="" />
             </a>
             <h5>

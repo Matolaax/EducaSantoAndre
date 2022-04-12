@@ -13,7 +13,7 @@ include "../inc/header.php"
         <div class="col-md-6">
           <div class="img_container">
             <div class="img-box b1">
-              <img src="../Professores/Fotosprofessores/Reginafoto1.jpg" alt="" />
+              <img src="../autores/Fotosprofessores/Isabelfoto1.jpg" alt="" />
             </div>
           </div>
         </div>
@@ -46,7 +46,7 @@ include "../inc/header.php"
         <div class="col-md-6">
           <div class="img_container">
             <div class="img-box b1">
-              <img src="../Professores/Fotosprofessores/Valeriafoto2.jpg" alt="" />
+              <img src="../autores/Fotosprofessores/Isabelfoto2.jpg" alt="" />
             </div>
           </div>
         </div>
@@ -56,7 +56,7 @@ include "../inc/header.php"
         <div class="col-md-6">
           <div class="img_container">
             <div class="img-box b1">
-              <img src="../Professores/Fotosprofessores/Valeriafoto3.jpg" alt="" />
+              <img src="../autores/Fotosprofessores/Isabelfoto3.jpg" alt="" />
             </div>
           </div>
         </div>
@@ -84,7 +84,7 @@ include "../inc/header.php"
         </div>
       </div>
       <div class="video">
-        <embed src="../Professores/Fotosprofessores/IsabelRvideo1.mp4" autostart="false" height="600" width="900" />
+        <embed src="../autores/Fotosprofessores/IsabelRvideo1.mp4" autostart="false" height="600" width="900" />
       </div>
       <div class="col-md-6">
         <div class="detail-box">

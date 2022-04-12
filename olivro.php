@@ -41,7 +41,7 @@ include "inc/header.php"
             <div class="heading_container">
               <div class="textojustify">
               <h3>
-              Fotos de Ale Anselmi no dia da votação
+              Fotos de Ale Anselmi 
               </h3>
               </div>
               </div>
@@ -75,7 +75,7 @@ include "inc/header.php"
             <div class="heading_container">
               <div class="textojustify">
               <h3>
-              Fotos do Gilmar Oliveira no dia da votação
+              Fotos do Gilmar Oliveira 
               </h3>
             </div>
            </div>
