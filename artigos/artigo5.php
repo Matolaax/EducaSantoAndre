@@ -16,10 +16,7 @@ include "../inc/header.php"
                 É DE MENINO OU DE MENINA? REFLEXÕES A PARTIR DOS JOGOS DOS POVOS INDÍGENAS NA EDUCAÇÃO FÍSICA ESCOLAR
               </h3>
               <h5>
-                AUTORAS: Mirvane Dias de Souza 
-              </h5>
-              <h5>
-                Isabel Porto Filgueiras
+                AUTORAS: Mirvane Dias de Souza e Isabel Porto Filgueiras
               </h5>
             
             </div>

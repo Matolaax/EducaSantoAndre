@@ -16,10 +16,7 @@ include "../inc/header.php"
                 CULTURA MARGINAL?
               </h3>
               <h5>
-                AUTORAS:Cátia Silva dos Santos 
-              </h5>
-              <h5>
-                Renata Aceituno
+                AUTORAS:Cátia Silva dos Santos e Renata Aceituno
               </h5>
             
             </div>

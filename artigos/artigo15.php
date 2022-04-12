@@ -16,10 +16,7 @@ include "../inc/header.php"
                 A DESIGUALDADE IMPOSTA PELAS POLÍTICAS DE FINANCIAMENTO DA EDUCAÇÃO BÁSICA: IMPACTOS NA REDE MUNICIPAL DE SANTO ANDRÉ
               </h3>
               <h5>
-                AUTORAS: Adriana Zanini da Silva                                
-              </h5>
-              <h5>
-                Rosemary Roggero 
+                AUTORAS: Adriana Zanini da Silva e Rosemary Roggero                              
               </h5>
             
             </div>

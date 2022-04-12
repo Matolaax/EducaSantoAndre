@@ -15,10 +15,7 @@ include "../inc/header.php"
                 UMA NOVA VISÃO – POLO DE DEFICIÊNCIA VISUAL 
               </h3>
               <h5>
-                AUTORAS: Kelen Cristina Silveira Santos
-              </h5>
-              <h5>
-                Viviane Ferrareto da Silva Pires
+                AUTORAS: Kelen Cristina Silveira Santos e Viviane Ferrareto da Silva Pires
               </h5>
             
             </div>

@@ -16,11 +16,8 @@ include "../inc/header.php"
                 A SALA DE RECURSOS COMO FACILITADORA DO PROTAGONISMO E INCLUSÃO DE JOVENS E ADULTOS COM DEFICIÊNCIA. 
               </h3>
               <h5>
-                AUTORAS: Liliane de Jesus Gonçalves                 
-              </h5>
-              <h5>
-                Marina Savordelli Versolato
-              </h5>
+                AUTORAS: Liliane de Jesus Gonçalves e  Marina Savordelli Versolato             
+              </h5>>
             
             </div>
           </div>

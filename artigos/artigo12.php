@@ -16,16 +16,7 @@ include "../inc/header.php"
                 MULTILETRAMENTOS NA EDUCAÇÃO DE JOVENS E ADULTOS: UMA PROPOSTA NA PERSPECTIVA DO CURRÍCULO INTEGRADO 
               </h3>
               <h5>
-                AUTORAS: Amanda Sousa Batista do Nascimento  
-              </h5>
-              <h5>
-                Cláudia Pessoni
-              </h5>
-              <h5>
-                Crislaine Barros Rubira 
-              </h5>
-              <h5>
-                Siclay Pereira
+                AUTORAS: Amanda Sousa Batista do Nascimento,  Cláudia Pessoni, Crislaine Barros Rubira e Siclay Pereira
               </h5>
             
             </div>
