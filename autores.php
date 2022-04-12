@@ -180,7 +180,7 @@ include "inc/header.php"
             </h5>
           </div>
           <div class="box">
-            <img src="autores/Fotosprofessores/Mirvanefoto1.png" alt="" />
+            <img src="autores/Fotosprofessores/mirvanefoto1.png" alt="" />
             <a href="autores/MirvaneSouza.php" class="">
               <img src="images/link.png" alt="" />
             </a>
@@ -200,7 +200,7 @@ include "inc/header.php"
             </h5>
           </div>
           <div class="box">
-            <img src="autores/Fotosprofessores/Reginafotoautores.jpg" alt="" />
+            <img src="autores/Fotosprofessores/reginafotoautores.jpg" alt="" />
             <a href="autores/ReginaMaria.php" class="">
               <img src="images/link.png" alt="" />
             </a>
