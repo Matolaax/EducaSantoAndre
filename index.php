@@ -71,7 +71,7 @@ include "inc/header.php"
               </time>
             </header>
             <div class="card__content">
-              <p>Votação da Lei da Mordaça na Câmara dos Vereadores em Santo André, com vitória favorável aos professores e à liberdade de cátedra. Ao observar que os parlamentares não conhecem o trabalho realizado pelo Rede Municipal, os organizadores começaram a idealizar a obra.</p>
+              <p>Votação da Lei da Mordaça na Câmara dos Vereadores em Santo André, com vitória favorável aos professores e à liberdade de cátedra. Ao observar que os parlamentares não conhecem o trabalho realizado pela Rede Municipal, os organizadores começaram a idealizar a obra.</p>
             </div>
           </div>
         </div>
