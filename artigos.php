@@ -20,7 +20,7 @@ include "inc/header.php"
           <div class="detail-box">
             <div class="heading_container">
               <h3>
-              SESSÃO I- PRÁTICAS E TRAJETÓRIAS PEDAGÓGICAS NA ESCOLA PÚBLICA: DESAFIOS E POSSIBILIDADES
+              SEÇÃO I- PRÁTICAS E TRAJETÓRIAS PEDAGÓGICAS NA ESCOLA PÚBLICA: DESAFIOS E POSSIBILIDADES
               </h3>       
             </div>
           </div>
@@ -50,7 +50,7 @@ include "inc/header.php"
           <div class="detail-box">
             <div class="heading_container">
               <h3>
-              SESSÃO II - EDUCAÇÃO DAS RELAÇÕES ÉTNICO-RACIAIS NA ESCOLA PÚBLICA: INTERCULTURALIDADE E EMANCIPAÇÃO CURRICULAR
+              SEÇÃO II - EDUCAÇÃO DAS RELAÇÕES ÉTNICO-RACIAIS NA ESCOLA PÚBLICA: INTERCULTURALIDADE E EMANCIPAÇÃO CURRICULAR
               </h3>
             </div>
           </div>
@@ -90,7 +90,7 @@ include "inc/header.php"
           <div class="detail-box">
             <div class="heading_container">
               <h3>
-              SESSÃO III - EDUCAÇÃO DE JOVENS E ADULTOS: PRÁTICAS E REFLEXÕES DE UMA REDE MUNICIPAL
+              SEÇÃO III - EDUCAÇÃO DE JOVENS E ADULTOS: PRÁTICAS E REFLEXÕES DE UMA REDE MUNICIPAL
               </h3>   
             </div>
           </div>
@@ -125,7 +125,7 @@ include "inc/header.php"
           <div class="detail-box">
             <div class="heading_container">
               <h3>
-              SESSÃO IV - EDUCAÇÃO E POLÍTICAS PÚBLICAS: A GESTÃO DEMOCRÁTICA EM QUESTÃO
+              SEÇÃO IV - EDUCAÇÃO E POLÍTICAS PÚBLICAS: A GESTÃO DEMOCRÁTICA EM QUESTÃO
               </h3>
             </div>
           </div>
@@ -155,7 +155,7 @@ include "inc/header.php"
           <div class="detail-box">
             <div class="heading_container">
               <h3>
-              SESSÃO V - EDUCAÇÃO INCLUSIVA NO ENSINO REGULAR PÚBLICO: PROPOSTAS POSSÍVEIS
+              SEÇÃO V - EDUCAÇÃO INCLUSIVA NO ENSINO REGULAR PÚBLICO: PROPOSTAS POSSÍVEIS
               </h3>
             </div>
           </div>
