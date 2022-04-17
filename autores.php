@@ -140,7 +140,7 @@ include "inc/header.php"
             </h5>
           </div>
           <div class="box">
-            <img src="autores/Isabelteste.jpg" alt="" />
+            <img src="images/images-autores/isabelteste.jpg" alt="" />
             <a href="autores/isabel-rodrigues.php" class="">
               <img src="images/link.png" alt="" />
             </a>
