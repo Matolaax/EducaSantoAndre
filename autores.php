@@ -14,7 +14,7 @@ include "inc/header.php"
           Autores
         </h3>
         <p>
-          Breve descrição sobre os autores
+        Conhecendo os autores e sua prática
         </p>
       </div>
       <div class="course_container">
