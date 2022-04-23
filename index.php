@@ -12,7 +12,7 @@ include "inc/header.php"
         <div class="col-md-6">
           <div class="img_container">
             <div class="img-box b1">
-              <img src="Fotocapa1.png" alt="" />
+              <img src="images/fotocapa1.png" alt="" />
             </div>
             <!--<div class="img-box b2">
               <img src="Fotocapa2.png" alt="" />
@@ -198,7 +198,7 @@ include "inc/header.php"
       <div class="col-md-6">
         <div class="img_container">
           <div class="img-box b1">
-            <img src="images/paulo-freire.jpg" alt="" />
+            <img src="images/paulo-freire-2.jpeg" alt="" />
           </div>
         </div>
       </div>
@@ -238,7 +238,7 @@ include "inc/header.php"
 
         <div class="img_container">
           <div class="img-box b1">
-            <img src="images/paulo-freire2.jpg" alt="" />
+            <img src="images/paulo-freire-1.jpeg" alt="" />
           </div>
         </div>
       </div>

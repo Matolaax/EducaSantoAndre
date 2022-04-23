@@ -94,7 +94,7 @@ include "../inc/header.php"
         <div class="detail-box">
           <div class="heading_container">
             <h3>
-              Referencias:
+              Referências:
             </h3>
           </div>
         </div>

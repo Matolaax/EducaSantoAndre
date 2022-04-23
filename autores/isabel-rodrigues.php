@@ -78,19 +78,19 @@ include "../inc/header.php"
         <div class="detail-box">
           <div class="heading_container">
             <h3>
-              Relato ou vídeo que explique/ inspire outros professores
+            Inspirando outros professores
             </h3>
           </div>
         </div>
       </div>
       <div class="video">
-        <embed src="../autores/Fotosprofessores/IsabelRvideo1.mp4" autostart="false" height="600" width="900" />
+        <embed src="../images/images-autores/IsabelRvideo1.mp4" autostart="false" height="600" width="900" />
       </div>
       <div class="col-md-6">
         <div class="detail-box">
           <div class="heading_container">
             <h3>
-              Referencias:
+              Referências:
             </h3>
           </div>
         </div>
