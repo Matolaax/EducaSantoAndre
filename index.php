@@ -12,7 +12,7 @@ include "inc/header.php"
         <div class="col-md-6">
           <div class="img_container">
             <div class="img-box b1">
-              <img src="images/fotocapa1.png" alt="" />
+              <img src="images/Fotocapa1.png" alt="" />
             </div>
             <!--<div class="img-box b2">
               <img src="Fotocapa2.png" alt="" />
