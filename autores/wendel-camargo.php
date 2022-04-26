@@ -13,7 +13,7 @@ include "../inc/header.php"
         <div class="col-md-6">
           <div class="img_container">
             <div class="img-box b1">
-              <img src="../autores/Fotosprofessores/Wendelfoto1.jpeg" alt="" />
+              <img src="../images/images-autores/Wendelfoto1.jpeg" alt="" />
             </div>
           </div>
         </div>

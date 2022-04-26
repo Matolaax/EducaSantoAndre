@@ -13,7 +13,7 @@ include "../inc/header.php"
         <div class="col-md-6">
           <div class="img_container">
             <div class="img-box b1">
-              <img src="../autores/Fotosprofessores/Reginafoto1.jpg" alt="" />
+              <img src="../images/images-autores/Reginafoto1.jpg" alt="" />
             </div>
           </div>
         </div>
@@ -46,7 +46,7 @@ include "../inc/header.php"
         <div class="col-md-6">
           <div class="img_container">
             <div class="img-box b1">
-              <img src="../autores/Fotosprofessores/Reginafoto2.png" alt="" />
+              <img src="../images/images-autores/Reginafoto2.png" alt="" />
             </div>
           </div>
         </div>
@@ -56,7 +56,7 @@ include "../inc/header.php"
         <div class="col-md-6">
           <div class="img_container">
             <div class="img-box b1">
-              <img src="../autores/Fotosprofessores/Reginafoto3.png" alt="" />
+              <img src="../images/images-autores/Reginafoto3.png" alt="" />
             </div>
           </div>
         </div>

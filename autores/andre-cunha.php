@@ -13,7 +13,7 @@ include "../inc/header.php"
         <div class="col-md-6">
           <div class="img_container">
             <div class="img-box b1">
-              <img src="../conteudoprofessores/fotoandré1.png" alt="" />
+              <img src="../images/images-autores/fotoandré1.png" alt="" />
             </div>
           </div>
         </div>
@@ -46,7 +46,7 @@ include "../inc/header.php"
       </div>
     </div>
     <div class="video">
-      <embed src="../autores/Fotosprofessores/Andrevideo1.mp4" autostart="false" height="600" width="900" />
+      <embed src="../images/images-autores/Andrevideo1.mp4" autostart="false" height="600" width="900" />
     </div>
     <div class="container">
       <div class="row">

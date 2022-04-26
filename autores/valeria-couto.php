@@ -13,7 +13,7 @@ include "../inc/header.php"
         <div class="col-md-6">
           <div class="img_container">
             <div class="img-box b1">
-              <img src="../autores/Fotosprofessores/Valeriafoto1.jpg" alt="" />
+              <img src="../images/images-autores/Valeriafoto1.jpg" alt="" />
             </div>
           </div>
         </div>
@@ -46,7 +46,7 @@ include "../inc/header.php"
         <div class="col-md-6">
           <div class="img_container">
             <div class="img-box b1">
-              <img src="../autores/Fotosprofessores/Valeriafoto2.jpg" alt="" />
+              <img src="../images/images-autores/Valeriafoto2.jpg" alt="" />
             </div>
           </div>
         </div>
@@ -56,14 +56,14 @@ include "../inc/header.php"
         <div class="col-md-6">
           <div class="img_container">
             <div class="img-box b1">
-              <img src="../autores/Fotosprofessores/Valeriafoto3.jpg" alt="" />
+              <img src="../images/images-autores/Valeriafoto3.jpg" alt="" />
             </div>
           </div>
         </div>
         <div class="col-md-6">
           <div class="detail-box">
             <div class="heading_container">
-              <h3> Porque meu artigo contribui para a educação pública? </h3>
+              <h3> Por que meu artigo contribui para a educação pública? </h3>
               <p>
                 Quando percebi que a maioria das crianças conseguiram desconstruir a visão que tinha sobre África e muitas crianças pretas começaram a se valorizar e valorizar seus traços e histórias, consequentemente também começaram a enfrentar o racismo. Compartilhar com outras pessoas as diversas possibilidades de colocar em prática uma educação antirracista, é fundamental para ampliar o alcance da nossa história que durante muito tempo foi e ainda é silenciada e invisibilizada              
               </p>

@@ -13,7 +13,7 @@ include "../inc/header.php"
         <div class="col-md-6">
           <div class="img_container">
             <div class="img-box b1">
-              <img src="../autores/Fotosprofessores/Isabelfoto1.jpg" alt="" />
+              <img src="../images/images-autores/Isabelfoto1.jpg" alt="" />
             </div>
           </div>
         </div>
@@ -46,7 +46,7 @@ include "../inc/header.php"
         <div class="col-md-6">
           <div class="img_container">
             <div class="img-box b1">
-              <img src="../autores/Fotosprofessores/Isabelfoto2.jpg" alt="" />
+              <img src="../images/images-autores/Isabelfoto2.jpg" alt="" />
             </div>
           </div>
         </div>
@@ -56,14 +56,14 @@ include "../inc/header.php"
         <div class="col-md-6">
           <div class="img_container">
             <div class="img-box b1">
-              <img src="../autores/Fotosprofessores/Isabelfoto3.jpg" alt="" />
+              <img src="../images/images-autores/Isabelfoto3.jpg" alt="" />
             </div>
           </div>
         </div>
         <div class="col-md-6">
           <div class="detail-box">
             <div class="heading_container">
-              <h3> Porque meu artigo contribui para a educação pública? </h3>
+              <h3> Por que meu artigo contribui para a educação pública? </h3>
               <p>
                 Faz parte do senso comum imaginar que produtores de conteúdos pedagógicos são apenas autores de livros famosos. Publicar práticas pedagógicas de professores da educação básica, assim como suas pesquisas é uma estratégia potente de evidenciar que professor faz, pensa sobre o que faz e tem possibilidade de tornar público o seu fazer. Esse projeto valoriza os professores, os alunos, a comunidade escolar e consequentemente, toda a educação pública.              
               </p>

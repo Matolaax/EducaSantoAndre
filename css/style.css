@@ -29,6 +29,7 @@ body {
 }
 
 .heading_container {
+  margin: 30px auto;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
