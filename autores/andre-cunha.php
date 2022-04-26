@@ -46,7 +46,7 @@ include "../inc/header.php"
       </div>
     </div>
     <div class="video">
-      <embed src="../images/images-autores/Andrevideo1.mp4" autostart="false" height="600" width="900" />
+      <embed src="../images/images-autores/Andrevideo1.mp4" autostart="false" preload="none" height="600" width="900" />
     </div>
     <div class="container">
       <div class="row">
