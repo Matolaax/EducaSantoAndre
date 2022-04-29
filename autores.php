@@ -20,7 +20,7 @@ include "inc/header.php"
       <div class="course_container">
         <div class="course_content">
           <div class="box">
-            <img src="../images/images-autores/Adrianaautores.jpeg" alt="" />
+            <img src="../images/images-autores/adrianafoto1.jpeg" alt="" />
             <a href="autores/adriana-zanini.php">
               <img src="images/link.png" alt="" />
             </a>

@@ -59,7 +59,7 @@ include "../inc/header.php"
           <div class="detail-box">
             <div class="heading_container">
               <h3> 
-                Porque meu artigo contribui para a educação pública?
+                Por que meu artigo contribui para a educação pública?
                </h3>
             </div>
           </div>
