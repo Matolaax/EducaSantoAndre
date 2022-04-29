@@ -221,7 +221,7 @@ include "inc/header.php"
           </div>
           <div class="box">
             <img src="../images/images-autores/siclayautores.jpeg" alt="" />
-            <a href="autores/claudia-pessoni.php" class="">
+            <a href="autores/siclay-pereira.php" class="">
               <img src="images/link.png" alt="" />
             </a>
             <h5>

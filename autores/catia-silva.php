@@ -41,6 +41,22 @@ include "../inc/header.php"
         <div class="detail-box">
           <div class="heading_container">
             <h3>
+            Como adentrou ao projeto?
+            </h3>
+          </div>
+        </div>
+      </div>
+      <p>
+      O trabalho em diferentes Redes de ensino nos propicia uma interação maior, a ampliação do conhecimento, contato com diferentes práticas, reflexões constantes e diversas possibilidades. Foi em uma conversa com a coordenadora de uma das redes em que trabalho, Isabel Rodrigues, que tive contato com essa linda proposta, lendo o edital e percebendo que nossa prática poderia ser socializada, instigando outros profissionais e nos fazendo entender, cada vez mais,  a importância do professor autor.
+      </p>
+  </div>
+</div>
+    <div class="container">
+    <div clss="row">
+      <div class="col-md-6">
+        <div class="detail-box">
+          <div class="heading_container">
+            <h3>
             Inspirando outros professores
             </h3>
           </div>

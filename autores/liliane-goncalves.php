@@ -24,7 +24,7 @@ include "../inc/header.php"
               Liliane de Jesus Gonçalves 
               </h3>
               <p>
-              Professora da rede Municipal de Santo André. Mestra em Políticas e Práticas Educacionais pela Universidade Nove de Julho (2020) Doutoranda em Educação: Psicologia da Educação pela Pontifícia Universidade Católica de São Paulo (Puc/SP). Possui graduação em Pedagogia pela Faculdade de São Bernardo do Campo (2007), especialização em Psicologia e Educação pela Escola de Arte, Ciências e Humanidades da Universidade de São Paulo (2012) e especialização em Ciência e Tecnologia pela Universidade Federal do ABC (2017).  Atualmente, está como Professora Assessora de Educação Inclusiva. Sendo o principal foco de trabalho os educandos com deficiência e a formação de professores.
+              Municipal de Santo André. Mestra em Políticas e Práticas Educacionais pela Universidade Nove de Julho (2020) Doutoranda em Educação: Psicologia da Educação pela Pontifícia Universidade Católica de São Paulo (Puc/SP). Possui graduação em Pedagogia pela Faculdade de São Bernardo do Campo (2007), especialização em Psicologia e Educação pela Escola de Arte, Ciências e Humanidades da Universidade de São Paulo (2012) e especialização em Ciência e Tecnologia pela Universidade Federal do ABC (2017).  Atualmente, está como Professora Assessora de Educação Inclusiva. Sendo o principal foco de trabalho os educandos com deficiência e a formação de professores.
               </p>
             </div>
           </div>
