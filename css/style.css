@@ -933,7 +933,13 @@ a:focus {
 .video {
 	width: 600px;
 	margin: 5px auto;
-  margin-left: 550px;
+  margin-left: 800px;
+}
+
+.videobel {
+  width: 600px;
+	margin: 5px auto;
+  margin-right: 400px;
 }
 
 h1 {

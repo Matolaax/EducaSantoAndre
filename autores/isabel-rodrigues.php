@@ -83,7 +83,7 @@ include "../inc/header.php"
           </div>
         </div>
       </div>
-      <div class="video">
+      <div class="videobel">
         <embed src="../images/images-autores/IsabelRvideo1.mp4" autostart="false" preload="none" height="600" width="900" />
       </div>
       <div class="col-md-6">
